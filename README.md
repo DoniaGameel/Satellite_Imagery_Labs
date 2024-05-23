@@ -1,4 +1,4 @@
-# Satellite_Imagery_Labs
+# Satellite Imagery Labs
 
 Satellite Imagery Labs using python
 
